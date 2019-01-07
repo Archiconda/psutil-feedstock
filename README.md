@@ -1,6 +1,8 @@
 About psutil
 ============
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://github.com/giampaolo/psutil
 
 Package license: BSD 3-Clause
@@ -22,6 +24,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/psutil-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/psutil-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/psutil-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/psutil-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/psutil-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/psutil-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a83aeb3c070044c6b1/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/psutil-feedstock)
 
 Current release info
 ====================
@@ -109,3 +112,13 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@gqmelo](https://github.com/gqmelo/)
+* [@jakirkham](https://github.com/jakirkham/)
+* [@jjhelmus](https://github.com/jjhelmus/)
+* [@nehaljwani](https://github.com/nehaljwani/)
+* [@pelson](https://github.com/pelson/)
+
